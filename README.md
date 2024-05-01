@@ -1,3 +1,3 @@
 # apnacollage_demo
 THIS IS MY FRIST REPOSITORY
-Auther -Raju kumar
+Auther - Raju Kumar
